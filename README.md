@@ -48,6 +48,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | ----------------------------------- | ------------ | ----------------------------------------------------------------------------- |
 | A web for anyone, anywhere, anytime | Rowdy Rabouw | [Slides (PDF)](2026-02-27/A_web_for_anyone_anywhere_anytime_Rowdy_Rabouw.pdf) |
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
+| 3 Illusions in Software Delivery | Joel Tosi | [PDF](./‎2026-02-27/3_Illusions_In_Software_Delivery-Joel_Tosi.pdf) |
 | JDK 25’s new CPU-Time Profiler | Johannes Bechberger | [PDF](2026-02-27/cpu_time_profiler-johannes_bechberger.pdf) |
 | The 2025 OWASP Top Ten | Christian Wenz | [PDF](2026-02-27/the_2025_owasp_top_ten-christian_wenz.pdf) |
 | Container Deep Dive - Namespaces, Layers, and cgroups | Daniel Mikusa | [PDF](2026-02-27/container_deep_dive_namespaces_layers_and_cgroups.pdf) & [DEMOS](https://github.com/dmikusa/container-deep-dive-slides/tree/main/demos) |
